@@ -1,0 +1,2 @@
+ytmusicapi==0.25.0
+strsimpy==0.2.1
