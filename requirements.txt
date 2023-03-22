@@ -1,2 +1,3 @@
-ytmusicapi==0.25.0
-strsimpy==0.2.1
+ytmusicapi==0.25.*
+strsimpy==0.2.*
+pylast==5.*
